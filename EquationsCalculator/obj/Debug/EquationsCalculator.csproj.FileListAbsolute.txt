@@ -1,0 +1,12 @@
+D:\Repositories\EquationsCalculator\EquationsCalculator\bin\Debug\EquationsCalculator.exe.config
+D:\Repositories\EquationsCalculator\EquationsCalculator\bin\Debug\EquationsCalculator.exe
+D:\Repositories\EquationsCalculator\EquationsCalculator\bin\Debug\EquationsCalculator.pdb
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.csproj.AssemblyReference.cache
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.Form1.resources
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.Properties.Resources.resources
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.csproj.GenerateResource.cache
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.csproj.CoreCompileInputs.cache
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.exe
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.pdb
+D:\Repositories\EquationsCalculator\EquationsCalculator\obj\Debug\EquationsCalculator.NumberEvaluation.resources

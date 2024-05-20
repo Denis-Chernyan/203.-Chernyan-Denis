@@ -1,0 +1,11 @@
+D:\Repositories\Practic\Num2\bin\Debug\Num2.exe.config
+D:\Repositories\Practic\Num2\bin\Debug\Num2.exe
+D:\Repositories\Practic\Num2\bin\Debug\Num2.pdb
+D:\Repositories\Practic\Num2\obj\Debug\Num2.csproj.AssemblyReference.cache
+D:\Repositories\Practic\Num2\obj\Debug\Num2.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Practic\Num2\obj\Debug\Num2.Form1.resources
+D:\Repositories\Practic\Num2\obj\Debug\Num2.Properties.Resources.resources
+D:\Repositories\Practic\Num2\obj\Debug\Num2.csproj.GenerateResource.cache
+D:\Repositories\Practic\Num2\obj\Debug\Num2.csproj.CoreCompileInputs.cache
+D:\Repositories\Practic\Num2\obj\Debug\Num2.exe
+D:\Repositories\Practic\Num2\obj\Debug\Num2.pdb
